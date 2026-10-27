@@ -24,21 +24,21 @@ Instruções de Execução
 
 Siga os passos abaixo para clonar e rodar o projeto localmente na sua máquina:
 
-1. Pré-requisitos
+1. Pré-requisitos -
 Certifique-se de ter o GCC instalado (como o MinGW-w64). Você pode testar no terminal:
 bash
 gcc --version
 
-3. Clonar o repositório
+2. Clonar o repositório - 
 Abra o seu terminal e clone o projeto:
 git clone [https://github.com/aiamerdna/bhaskara-c.git](https://github.com/aiamerdna/bhaskara-c.git)
 cd bhaskara-c
 
-3. Compilar o código
+3. Compilar o código - 
 Utilize o GCC para compilar o arquivo fonte (raizquad.c) gerando o executável:
 gcc raizquad.c -o calculadora
 
-5. Executar a aplicação
+4. Executar a aplicação - 
 No Windows (PowerShell / CMD):
 ./calculadora.exe
 No Linux / macOS:
