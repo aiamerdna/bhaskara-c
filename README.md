@@ -22,7 +22,7 @@ Tecnologias Utilizadas
 
 Instruções de Execução
 
-Siga os passos abaixo para clonar e rodar o projeto localmente na sua máquina:
+Siga os passos para clonar e rodar o projeto localmente na sua máquina:
 
 1. Pré-requisitos -
 Certifique-se de ter o GCC instalado (como o MinGW-w64). Você pode testar no terminal:
@@ -46,7 +46,6 @@ No Linux / macOS:
 
 Exemplo de execução no terminal:
 
-Plaintext
 === Calculadora de Bhaskara ===
 
 insira o primeiro coeficiente: 1
@@ -55,5 +54,5 @@ insira o terceiro coeficiente: 6
 R1 = 3.00000
 R2 = 2.00000
 
-📄 Licença
+Licença
 Este projeto está sob a licença MIT. Sinta-se livre para utilizar, modificar e estudar o código. Veja o arquivo LICENSE para mais detalhes.
