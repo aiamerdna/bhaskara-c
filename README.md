@@ -54,5 +54,5 @@ insira o terceiro coeficiente: 6
 R1 = 3.00000
 R2 = 2.00000
 
-Licença
+Licença - 
 Este projeto está sob a licença MIT. Sinta-se livre para utilizar, modificar e estudar o código. Veja o arquivo LICENSE para mais detalhes.
